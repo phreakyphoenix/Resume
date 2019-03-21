@@ -33,9 +33,9 @@ if(empty($name) || empty($sub) || empty($email) || empty($comments) ){
 else {
 
     if (mail($mailto, $subject, $message, $headers)) {
-        echo "Sent"; // success
+        echo "Sent"; 
     } else {
-        echo "Failed"; // failure
+        echo "Failed"; 
     }
 }
 
