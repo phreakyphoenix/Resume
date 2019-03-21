@@ -1,2 +1,3 @@
 # Resume
-My online Resume for SRMDSC WebDev101 workshop.
+My online Resume :heart:
+First made for SRMDSC WebDev101 workshop.
