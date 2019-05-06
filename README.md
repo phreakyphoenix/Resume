@@ -1,4 +1,4 @@
 # Resume
 My online Resume :heart:
 
-First made for SRMDSC WebDev101 workshop.
+Not updated recently, please check [LinkedIn](linkedin.com/in/phreakyphoenix) for the latest updates!!
