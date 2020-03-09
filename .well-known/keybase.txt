@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/phreakyphoenix
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://phreakyphoenix.tech
+  * I am phreakyphoenix (https://keybase.io/phreakyphoenix) on keybase.
+  * I have a public key with fingerprint 16B3 7E59 8901 3893 0785  D40B 6D53 51D9 B3CE 113A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010176a657ac34b7c69d3f0abf055030ccad105280ceaff001a509531dc311d5eeda0a",
+      "fingerprint": "16b37e59890138930785d40b6d5351d9b3ce113a",
+      "host": "keybase.io",
+      "key_id": "6d5351d9b3ce113a",
+      "kid": "010176a657ac34b7c69d3f0abf055030ccad105280ceaff001a509531dc311d5eeda0a",
+      "uid": "72dd43d8c1baf96aa5cf4e50a92a4219",
+      "username": "phreakyphoenix"
+    },
+    "merkle_root": {
+      "ctime": 1583791434,
+      "hash_meta": "ca0467593854eb210629704d1464a97bbbfcef57974f20372f3b3325e238e2ff",
+      "seqno": 15235029
+    },
+    "revoke": {
+      "sig_ids": [
+        "cda797e1783ce735c2fdb177836fdc7a291a5c2f95c50de705f76c78b8895be40f"
+      ]
+    },
+    "service": {
+      "hostname": "phreakyphoenix.tech",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1583791458,
+  "expire_in": 157680000,
+  "prev": "a2f8938d7ba11e6dd93f2d0bc26368bc2d0aa0bc5dfac474fa20c28e2e586a22",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK6AnicrZN9aFZVHMef6db0sYUS2D8j2Z1UxIOel3vuuecRTSRc0QuxWkrmHs7L
+7+y5bXvu0713c8uGRuaMWkRQEwqC0AjKaa2CyqSmmFH0HoFTtlCafxRGhGXQy7mj
+IMI/u/8cfofv7/v7ns8951jLwkKxYccXrS880NFyZ8NHU7sGCt32XbXdU7EZ9srb
+vV6YX6DPQJpVeiPjlT2EEeaBDBiXmvqK60AYapFUFjGGKNJaGowYCZEGaS1CWDIk
+GMVGU4wNAzASSa/k2ajWA0k9iWqZs8WBohyYCAXCNBQU8ZAZH6nAMMqwEYpqwJjm
+jdU4zTtcOCVTWBXFbs8Vlfl4l9D/z7kH5u04McanJtRYSSsCKZm2PjAkBZE+wSIX
+ppDUZD84db2agOwdrldjqEVD3kjJ64ektw8qSRxnOWKdRbkQs5BygX3qu2PKtFrp
+h0y6fi2RH3AmaMh8UASjgAiOfIP9wJeCK6WsBsu44L4liHJiqaKUMCA0BGKtS5PC
+/bU4n0AoQ0S4CAkMxr2QT0+jHkcv9cpbPG2kcwHMQweQU6aJNQpzVwbWaC6JcFzc
+pmCaIQMcMcsDzUMVhoIp8JH1to7k05LBSM+b57/rkhhWZaCrLlk9ibNYx31OUM2y
+elrO+WTD9bxjG6jK314VFdWMuzOuYxCSNIpr7jRO+R90LCx5MFSPEqhEuYLxIETu
+y+fAoLOUxLr7FRquJMYQGCOoJQYpTQIahG4xSEpXMmOl9h1QSZAmDiOwMJCE/Itl
+4HLKHufpANZkNpCANzL13r2NhYZi4bKmBfljKhQXL/3nianbm//sJIWDNz5L1zb9
+GI9cKHk7jqefjpXWHx3rhKENW9ve37Ki+a1XPzg7cUcXCO+znR3LT6kPRy/edXzJ
+mutPTS7pPjz6+pPP31x5bnbRNz/8tPuQeHnNSyfVZOfZx/ahJ2ZWPv22Hn5j5tyi
+FXfvHl937VObkslleqI9RgeOPD69d9+5P/bwX7paNwfrHrxy7sQ7bedfvLp9T9/a
+79nJqYe/enTvtxP7K9+tLy68r338zOwyftUjTTsn+NjPB0pnfv190zO/fT0zd366
+457m5iOnr/DDmz6+XN02d92Fba0rTyzYWFtdvmFDDyy9WBzfdXR5w+efHGs8PT28
+8fBDi79cPXHNLW2Nbx7s7nrl1tdGScvsX9h7gwQ=
+=Nwwy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/phreakyphoenix
+
+==================================================================
