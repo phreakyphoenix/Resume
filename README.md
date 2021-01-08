@@ -1,6 +1,6 @@
-# Resume
+# Old Resume, no longer upadted
 [My online Resume](https://phreakyphoenix.github.io/Resume/) :heart:
 
 First made for SRM DSC WebDev workshop.
 
-Not updated recently, please check [LinkedIn](https://linkedin.com/in/phreakyphoenix) for the latest updates!!
+Please check [LinkedIn](https://linkedin.com/in/phreakyphoenix) or [phreakyphoenix.tech](https://phreakyphoenix.tech) for the latest updates!!
