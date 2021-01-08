@@ -1,5 +1,5 @@
-# Old Resume, no longer upadted
-[My online Resume](https://phreakyphoenix.github.io/Resume/) :heart:
+# My First Resume
+[Online Resume](https://phreakyphoenix.github.io/Resume/) :heart:
 
 First made for SRM DSC WebDev workshop.
 
